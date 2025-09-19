@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Meme Core Logo](front/src/assets/meme-core.png)
+![Meme Core Logo](docs/meme-core.png)
 
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
