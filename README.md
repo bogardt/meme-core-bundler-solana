@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="front/src/assets/meme-core.png" alt="Meme Core Logo" width="20%">
+<img src="docs/meme-core.png" alt="Meme Core Logo" width="20%">
 </div>
 
 <div align="center">
