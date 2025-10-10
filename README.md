@@ -20,6 +20,9 @@ _The ultimate desktop application for creating, managing, and bundling meme toke
 
 ---
 
+![Bundler View](docs/view-bundler2.png)
+![Wallets Config View](docs/view-wallets-config2.png)
+
 ## 📋 Table of Contents
 
 - [About](#-about)
