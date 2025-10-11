@@ -26,15 +26,22 @@ _The ultimate desktop application for creating, managing, and bundling meme toke
 
 </div>
 
-# Video :
-
-![Wallets Config View](docs/create_token.gif)
+# Video
 
 ---
 
+![Wallets Config View](docs/create_token.gif)
+
+<br>
+
 # Screenshots
 
+---
+
 ![Bundler View](docs/view-bundler2.png)
+
+<br>
+
 ![Wallets Config View](docs/view-wallets-config2.png)
 
 ## 📋 Table of Contents
