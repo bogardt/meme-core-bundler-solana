@@ -25,6 +25,7 @@ _The ultimate desktop application for creating, managing, and bundling meme toke
 **📱 Telegram: [@bogardt](https://t.me/bogardt)**
 
 </div>
+
 # Video :
 
 ![Wallets Config View](docs/create_token.gif)
