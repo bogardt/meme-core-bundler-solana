@@ -44,6 +44,49 @@ _The ultimate desktop application for creating, managing, and bundling meme toke
 
 ![Wallets Config View](docs/view-wallets-config2.png)
 
+## Tutorial Usage
+
+To manage your wallets during usage of this tool its easier to put a Funding wallet in settings menu. To distribute solana to your wallets for example  
+
+![Wallets Config View](docs/settings-refund-wallet.png)
+
+---
+To continue your journey to create a meme coin you have to create a Dev wallet in wallets menu. Dev wallet is the using term when speaking of the token creator wallet. You can generate wallet(s) with the generate button, underlined in red in next picture.
+
+![Wallets Config View](docs/wallets-create-dev-wallet.png)
+
+---
+
+Then generate wallets in the next group used to buy tokens from your future meme coin. You can generate a lot of them
+
+![Wallets Config View](docs/generate-wallets.png)
+
+![Wallets Config View](docs/generate-wallets-2.png)
+
+---
+
+Next step is to distribute solana to thoose wallets. You have to use distribute sol button from the right navbar 
+
+![Wallets Config View](docs/distribute-sol.png)
+
+It will use solana from your funding wallet configurated previously. But if you want you can use external wallet and send solana and dont use funding wallet but an external wallet on your own. 
+
+![Wallets Config View](docs/distribute-sol-2.png)
+
+---
+
+All your wallets are settle you can create your meme coin now !
+
+![Wallets Config View](docs/create-token.png)
+
+---
+
+You can edit buy / sell amount of your wallets with this configuration in wallets menu
+
+![Wallets Config View](docs/edit-preset.png)
+![Wallets Config View](docs/edit-preset-2.png)
+
+
 ## 📋 Table of Contents
 
 - [About](#-about)
